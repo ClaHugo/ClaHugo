@@ -3,7 +3,7 @@
 - 🌱 Atualmente estamos aprendendo T.I
 - 🤔 Procuramos ajuda com nossa programação
 - ⚡ Curiosidade: temos 16 anos
-- 
+  
 <div>
   <a href="https://github.com/ClaHugo">
  <img height="100cm"  src="https://github-readme-stats.vercel.app/api?username=ClaHugo&theme=dark&show_icons=true"/>
